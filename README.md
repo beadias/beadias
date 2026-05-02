@@ -5,7 +5,7 @@ Atualmente estou focada em criar aplicações práticas e evoluir minhas habilid
 
 ## 🚀 Sobre mim
 
-- Analista de Suporte migrando para Desenvolvimento
+- Analista migrando para Desenvolvimento
 - Experiência com resolução de problemas e atendimento técnico
 - Construindo projetos reais para portfólio
 - Foco em backend, APIs e cloud computing
